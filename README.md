@@ -174,6 +174,12 @@ Open the local URL displayed in the terminal, typically `http://localhost:8501`.
 7. Review the source information associated with answers.
 8. Use the **Documents** section to inspect extracted content.
 
+## 🚀 Live Demo
+
+Try PaperPilot here: **[Launch PaperPilot](https://paperpilot-pdf-chatbot.streamlit.app/)**
+
+Explore PaperPilot's document question-answering, AI-powered summarization, and RAG capabilities directly in your browser.
+
 ## 🧠 Key Concepts Demonstrated
 
 - Retrieval-Augmented Generation (RAG)
