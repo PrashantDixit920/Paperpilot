@@ -116,7 +116,7 @@ PaperPilot/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/PrashantDixit920/paperpilot.git
+git clone https://github.com/PrashantDixit920/Paperpilot.git
 cd paperpilot
 ```
 
